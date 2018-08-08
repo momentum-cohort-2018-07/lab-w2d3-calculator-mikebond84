@@ -1,0 +1,36 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #FCF7F8;
+  color: #0A090C;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 2rem;
+}
+
+.subtitle {
+  font-size: 1.5rem;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.store-image {
+  width: 300px;
+/*   border-width: 1px;
+  border-color: #0A090C;
+  border-style: solid;
+  padding: 10px; */
+  border-radius: 50%;
+}
+
+.plant-image {
+  height: 200px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
