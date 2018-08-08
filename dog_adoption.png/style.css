@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  margin: 15px;
+}
+
+p {
+  margin: 15px;
+}
+
+.site-header {  
+  background-color: #002b80;
+  color: white;
+  padding: 20px;
+  font-family: Open Sans, Helvetica, sans-serif;
+  border-bottom: solid 2px #33adff; 
+}
+span {
+  background-color:#00BFFF;
+  border-radius: 10px;
+  white-space: nowrap;
+  padding: 0 10px;
+}
+  
+.container {
+  font-family: Open Sans, Helvetica, sans-serif;
+  padding: 20px;
+}  
+    
+.search {
+  background-color: #cccccc;
+}
+
+label {
+  display: block;
+}
+
+.search__choice {
+  display: inline-block;
+  text-align: left;
+  vertical-align: top;
+  padding: 20px;
+  margin-top: 0;
+}
+
+.search__title {
+  padding: 20px;
+}
+
+
+.animal {
+  width: 360px;
+  height: 400px;
+  float: left;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+  
